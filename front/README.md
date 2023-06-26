@@ -1,5 +1,9 @@
 Proyecto Don Ventura para Jobly.
 
+*Credenciales de prueba*
+user: raulventura@donventura.com
+pass: Raulventura1
+
 *Descripción del proyecto:*
 *Don ventura es un negocio de barrio que quiere lograr llevar un mejor control de*
 *su entrada de ingresos por venta de productos.*
